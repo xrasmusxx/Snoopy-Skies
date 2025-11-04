@@ -31,7 +31,7 @@ git clone https://github.com/velinovjovan/Snoopy-Skies.git
 cd Snoopy-Skies
 ```
 
-Install dependencies (if any):
+Install dependencies:
 
 ```bash
 npm install
