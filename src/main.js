@@ -4,7 +4,7 @@ kaboom({ pixelDensity: 1 });
 // LOAD SPRITES
 loadSprite("snoop1", "/sprites/gd.png");
 loadSprite("snoop2", "/sprites/gd.png");
-loadSprite("bg", "/sprites/background.png");
+loadSprite("bg", "/sprites/gd-backg.png");
 loadSprite("doghouse", "/sprites/doghouse.png");
 loadSprite("house", "/sprites/house.png");
 loadSprite("ballon", "/sprites/ballon.png");
