@@ -19,7 +19,7 @@ const SPEED = width() > 1300 ? 480 : 150;
 const scrollSpeed = 200;
 
 let last = 0;
-const targetFPS = 10;
+const targetFPS = 30;
 const frameDuration = 1 / targetFPS;
 setBackground(254, 244, 230, 255);
 
