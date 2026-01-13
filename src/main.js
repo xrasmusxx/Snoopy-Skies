@@ -2,7 +2,7 @@ import kaboom from "kaboom";
 kaboom({ pixelDensity: 1 });
 
 // LOAD SPRITES
-loadSprite("snoop1", "/sprites/snoop1.png");
+loadSprite("snoop1", "public/sprites/gd.png");
 loadSprite("snoop2", "/sprites/snoop2.png");
 loadSprite("bg", "/sprites/background.png");
 loadSprite("doghouse", "/sprites/doghouse.png");
