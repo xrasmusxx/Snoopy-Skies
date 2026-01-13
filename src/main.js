@@ -202,7 +202,7 @@ scene("lose", (score) => {
     text(`Score: ${score}`),
     pos(width() / 2, height() / 2 + 250),
     scale(height() > 1300 ? 2 : 1),
-    color(0, 0, 0),
+    color(255, 0, 0 ),
     anchor("center"),
   ]);
 
