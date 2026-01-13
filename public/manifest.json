@@ -3,7 +3,7 @@
   "name": "Snoopy Skies",
   "icons": [
     {
-      "src": "/sprites/snoop1.png",
+      "src": "public/sprites/gd.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
